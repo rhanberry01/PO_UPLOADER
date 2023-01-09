@@ -1,0 +1,3 @@
+php index.php auto get_type_to_transfer_modeified_data_odd
+timeout 5
+exit

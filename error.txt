@@ -1,0 +1,649 @@
+
+
+
+
+sri
+branches to be updated: 29
+gethering branches..
+1
+Branches: Commit
+select id as id from supplier_frequency where branch = 'sri' and (throw = 0 or date_edited >='2020-02-26' )
+frequency to be updated: 10
+gethering supplier_frequency..
+frequency details to be updated: 2
+gethering supplier_frequency_items..
+supplier_frequency and supplier_frequency_items :Commit
+Committhrow updated!
+select id as id from supplier_frequency_verificator where  throw = 0 
+All Supp Freq.. has been Transfered
+frequency verificator to be updated: 1
+gethering supplier_frequency_verificator..
+select id as id from truck_load where  throw = 0 
+All Supp Freq.. has been Transferedgethering supplier_frequency_verificator..
+select id as id from user_vendor where  throw = 0 
+All Supp Freq.. has been Transferedgethering user_vendor..
+select id as id from users where  throw = 0 
+All Supp Freq.. has been Transferedgethering user..
+
+
+
+srsn
+branches to be updated: 29
+gethering branches..
+1
+Branches: Commit
+select id as id from supplier_frequency where branch = 'srsn' and (throw = 0 or date_edited >='2020-02-26' )
+frequency to be updated: 10
+gethering supplier_frequency..
+frequency details to be updated: 2
+gethering supplier_frequency_items..
+supplier_frequency and supplier_frequency_items :Commit
+Committhrow updated!
+select id as id from supplier_frequency_verificator where  throw = 0 
+All Supp Freq.. has been Transfered
+frequency verificator to be updated: 1
+gethering supplier_frequency_verificator..
+select id as id from truck_load where  throw = 0 
+All Supp Freq.. has been Transferedgethering supplier_frequency_verificator..
+select id as id from user_vendor where  throw = 0 
+All Supp Freq.. has been Transferedgethering user_vendor..
+select id as id from users where  throw = 0 
+All Supp Freq.. has been Transferedgethering user..
+
+
+
+srsnav
+branches to be updated: 29
+gethering branches..
+1
+Branches: Commit
+select id as id from supplier_frequency where branch = 'srsnav' and (throw = 0 or date_edited >='2020-02-26' )
+frequency to be updated: 10
+gethering supplier_frequency..
+frequency details to be updated: 2
+gethering supplier_frequency_items..
+supplier_frequency and supplier_frequency_items :Commit
+Committhrow updated!
+select id as id from supplier_frequency_verificator where  throw = 0 
+All Supp Freq.. has been Transfered
+frequency verificator to be updated: 1
+gethering supplier_frequency_verificator..
+select id as id from truck_load where  throw = 0 
+All Supp Freq.. has been Transferedgethering supplier_frequency_verificator..
+select id as id from user_vendor where  throw = 0 
+All Supp Freq.. has been Transferedgethering user_vendor..
+select id as id from users where  throw = 0 
+All Supp Freq.. has been Transferedgethering user..
+
+
+
+srst
+branches to be updated: 29
+gethering branches..
+1
+Branches: Commit
+select id as id from supplier_frequency where branch = 'srst' and (throw = 0 or date_edited >='2020-02-26' )
+frequency to be updated: 9
+gethering supplier_frequency..
+frequency details to be updated: 1
+gethering supplier_frequency_items..
+supplier_frequency and supplier_frequency_items :Commit
+Committhrow updated!
+select id as id from supplier_frequency_verificator where  throw = 0 
+All Supp Freq.. has been Transfered
+frequency verificator to be updated: 1
+gethering supplier_frequency_verificator..
+select id as id from truck_load where  throw = 0 
+All Supp Freq.. has been Transferedgethering supplier_frequency_verificator..
+select id as id from user_vendor where  throw = 0 
+All Supp Freq.. has been Transferedgethering user_vendor..
+select id as id from users where  throw = 0 
+All Supp Freq.. has been Transferedgethering user..
+
+
+
+srsc
+branches to be updated: 29
+gethering branches..
+1
+Branches: Commit
+select id as id from supplier_frequency where branch = 'srsc' and (throw = 0 or date_edited >='2020-02-26' )
+frequency to be updated: 10
+gethering supplier_frequency..
+frequency details to be updated: 2
+gethering supplier_frequency_items..
+supplier_frequency and supplier_frequency_items :Commit
+Committhrow updated!
+select id as id from supplier_frequency_verificator where  throw = 0 
+All Supp Freq.. has been Transfered
+frequency verificator to be updated: 1
+gethering supplier_frequency_verificator..
+select id as id from truck_load where  throw = 0 
+All Supp Freq.. has been Transferedgethering supplier_frequency_verificator..
+select id as id from user_vendor where  throw = 0 
+All Supp Freq.. has been Transferedgethering user_vendor..
+select id as id from users where  throw = 0 
+All Supp Freq.. has been Transferedgethering user..
+
+
+
+srsant1
+branches to be updated: 29
+gethering branches..
+1
+Branches: Commit
+select id as id from supplier_frequency where branch = 'srsant1' and (throw = 0 or date_edited >='2020-02-26' )
+frequency to be updated: 10
+gethering supplier_frequency..
+frequency details to be updated: 2
+gethering supplier_frequency_items..
+supplier_frequency and supplier_frequency_items :Commit
+Committhrow updated!
+select id as id from supplier_frequency_verificator where  throw = 0 
+All Supp Freq.. has been Transfered
+frequency verificator to be updated: 1
+gethering supplier_frequency_verificator..
+select id as id from truck_load where  throw = 0 
+All Supp Freq.. has been Transferedgethering supplier_frequency_verificator..
+select id as id from user_vendor where  throw = 0 
+All Supp Freq.. has been Transferedgethering user_vendor..
+select id as id from users where  throw = 0 
+All Supp Freq.. has been Transferedgethering user..
+
+
+
+srsant2
+branches to be updated: 29
+gethering branches..
+1
+Branches: Commit
+select id as id from supplier_frequency where branch = 'srsant2' and (throw = 0 or date_edited >='2020-02-26' )
+frequency to be updated: 10
+gethering supplier_frequency..
+frequency details to be updated: 2
+gethering supplier_frequency_items..
+supplier_frequency and supplier_frequency_items :Commit
+Committhrow updated!
+select id as id from supplier_frequency_verificator where  throw = 0 
+All Supp Freq.. has been Transfered
+frequency verificator to be updated: 1
+gethering supplier_frequency_verificator..
+select id as id from truck_load where  throw = 0 
+All Supp Freq.. has been Transferedgethering supplier_frequency_verificator..
+select id as id from user_vendor where  throw = 0 
+All Supp Freq.. has been Transferedgethering user_vendor..
+select id as id from users where  throw = 0 
+All Supp Freq.. has been Transferedgethering user..
+
+
+
+srsm
+branches to be updated: 29
+gethering branches..
+1
+Branches: Commit
+select id as id from supplier_frequency where branch = 'srsm' and (throw = 0 or date_edited >='2020-02-26' )
+frequency to be updated: 10
+gethering supplier_frequency..
+frequency details to be updated: 2
+gethering supplier_frequency_items..
+supplier_frequency and supplier_frequency_items :Commit
+Committhrow updated!
+select id as id from supplier_frequency_verificator where  throw = 0 
+All Supp Freq.. has been Transfered
+frequency verificator to be updated: 1
+gethering supplier_frequency_verificator..
+select id as id from truck_load where  throw = 0 
+All Supp Freq.. has been Transferedgethering supplier_frequency_verificator..
+select id as id from user_vendor where  throw = 0 
+All Supp Freq.. has been Transferedgethering user_vendor..
+select id as id from users where  throw = 0 
+All Supp Freq.. has been Transferedgethering user..
+
+
+
+srsg
+branches to be updated: 29
+gethering branches..
+1
+Branches: Commit
+select id as id from supplier_frequency where branch = 'srsg' and (throw = 0 or date_edited >='2020-02-26' )
+frequency to be updated: 8
+gethering supplier_frequency..
+frequency details to be updated: 2
+gethering supplier_frequency_items..
+supplier_frequency and supplier_frequency_items :Commit
+Committhrow updated!
+select id as id from supplier_frequency_verificator where  throw = 0 
+All Supp Freq.. has been Transfered
+frequency verificator to be updated: 1
+gethering supplier_frequency_verificator..
+select id as id from truck_load where  throw = 0 
+All Supp Freq.. has been Transferedgethering supplier_frequency_verificator..
+select id as id from user_vendor where  throw = 0 
+All Supp Freq.. has been Transferedgethering user_vendor..
+select id as id from users where  throw = 0 
+All Supp Freq.. has been Transferedgethering user..
+
+
+
+srscain
+branches to be updated: 29
+gethering branches..
+1
+Branches: Commit
+select id as id from supplier_frequency where branch = 'srscain' and (throw = 0 or date_edited >='2020-02-26' )
+frequency to be updated: 11
+gethering supplier_frequency..
+frequency details to be updated: 2
+gethering supplier_frequency_items..
+supplier_frequency and supplier_frequency_items :Commit
+Committhrow updated!
+select id as id from supplier_frequency_verificator where  throw = 0 
+All Supp Freq.. has been Transfered
+frequency verificator to be updated: 1
+gethering supplier_frequency_verificator..
+select id as id from truck_load where  throw = 0 
+All Supp Freq.. has been Transferedgethering supplier_frequency_verificator..
+select id as id from user_vendor where  throw = 0 
+All Supp Freq.. has been Transferedgethering user_vendor..
+select id as id from users where  throw = 0 
+All Supp Freq.. has been Transferedgethering user..
+
+
+
+srsval
+branches to be updated: 29
+gethering branches..
+
+Branches: Commit
+select id as id from supplier_frequency where branch = 'srsval' and (throw = 0 or date_edited >='2020-02-26' )
+frequency to be updated: 11
+gethering supplier_frequency..
+frequency details to be updated: 2
+gethering supplier_frequency_items..
+supplier_frequency and supplier_frequency_items :Commit
+Committhrow updated!
+select id as id from supplier_frequency_verificator where  throw = 0 
+All Supp Freq.. has been Transfered
+frequency verificator to be updated: 1
+gethering supplier_frequency_verificator..
+select id as id from truck_load where  throw = 0 
+All Supp Freq.. has been Transferedgethering supplier_frequency_verificator..
+select id as id from user_vendor where  throw = 0 
+All Supp Freq.. has been Transferedgethering user_vendor..
+select id as id from users where  throw = 0 
+All Supp Freq.. has been Transferedgethering user..
+
+
+
+srspun
+branches to be updated: 29
+gethering branches..
+
+Branches: Commit
+select id as id from supplier_frequency where branch = 'srspun' and (throw = 0 or date_edited >='2020-02-26' )
+frequency to be updated: 9
+gethering supplier_frequency..
+frequency details to be updated: 2
+gethering supplier_frequency_items..
+supplier_frequency and supplier_frequency_items :Commit
+Committhrow updated!
+select id as id from supplier_frequency_verificator where  throw = 0 
+All Supp Freq.. has been Transfered
+frequency verificator to be updated: 1
+gethering supplier_frequency_verificator..
+select id as id from truck_load where  throw = 0 
+All Supp Freq.. has been Transferedgethering supplier_frequency_verificator..
+select id as id from user_vendor where  throw = 0 
+All Supp Freq.. has been Transferedgethering user_vendor..
+select id as id from users where  throw = 0 
+All Supp Freq.. has been Transferedgethering user..
+
+
+
+srspat
+branches to be updated: 29
+gethering branches..
+1
+Branches: Commit
+select id as id from supplier_frequency where branch = 'srspat' and (throw = 0 or date_edited >='2020-02-26' )
+frequency to be updated: 11
+gethering supplier_frequency..
+frequency details to be updated: 2
+gethering supplier_frequency_items..
+supplier_frequency and supplier_frequency_items :Commit
+Committhrow updated!
+select id as id from supplier_frequency_verificator where  throw = 0 
+All Supp Freq.. has been Transfered
+frequency verificator to be updated: 1
+gethering supplier_frequency_verificator..
+select id as id from truck_load where  throw = 0 
+All Supp Freq.. has been Transferedgethering supplier_frequency_verificator..
+select id as id from user_vendor where  throw = 0 
+All Supp Freq.. has been Transferedgethering user_vendor..
+select id as id from users where  throw = 0 
+All Supp Freq.. has been Transferedgethering user..
+
+
+
+srsbsl
+branches to be updated: 29
+gethering branches..
+1
+Branches: Commit
+select id as id from supplier_frequency where branch = 'srsbsl' and (throw = 0 or date_edited >='2020-02-26' )
+frequency to be updated: 8
+gethering supplier_frequency..
+frequency details to be updated: 2
+gethering supplier_frequency_items..
+supplier_frequency and supplier_frequency_items :Commit
+Committhrow updated!
+select id as id from supplier_frequency_verificator where  throw = 0 
+All Supp Freq.. has been Transfered
+frequency verificator to be updated: 1
+gethering supplier_frequency_verificator..
+select id as id from truck_load where  throw = 0 
+All Supp Freq.. has been Transferedgethering supplier_frequency_verificator..
+select id as id from user_vendor where  throw = 0 
+All Supp Freq.. has been Transferedgethering user_vendor..
+select id as id from users where  throw = 0 
+All Supp Freq.. has been Transferedgethering user..
+
+
+
+srscom
+branches to be updated: 29
+gethering branches..
+1
+Branches: Commit
+select id as id from supplier_frequency where branch = 'srscom' and (throw = 0 or date_edited >='2020-02-26' )
+frequency to be updated: 10
+gethering supplier_frequency..
+frequency details to be updated: 2
+gethering supplier_frequency_items..
+supplier_frequency and supplier_frequency_items :Commit
+Committhrow updated!
+select id as id from supplier_frequency_verificator where  throw = 0 
+All Supp Freq.. has been Transfered
+frequency verificator to be updated: 1
+gethering supplier_frequency_verificator..
+select id as id from truck_load where  throw = 0 
+All Supp Freq.. has been Transferedgethering supplier_frequency_verificator..
+select id as id from user_vendor where  throw = 0 
+All Supp Freq.. has been Transferedgethering user_vendor..
+select id as id from users where  throw = 0 
+All Supp Freq.. has been Transferedgethering user..
+
+
+
+srscain2
+branches to be updated: 29
+gethering branches..
+1
+Branches: Commit
+select id as id from supplier_frequency where branch = 'srscain2' and (throw = 0 or date_edited >='2020-02-26' )
+frequency to be updated: 8
+gethering supplier_frequency..
+frequency details to be updated: 2
+gethering supplier_frequency_items..
+supplier_frequency and supplier_frequency_items :Commit
+Committhrow updated!
+select id as id from supplier_frequency_verificator where  throw = 0 
+All Supp Freq.. has been Transfered
+frequency verificator to be updated: 1
+gethering supplier_frequency_verificator..
+select id as id from truck_load where  throw = 0 
+All Supp Freq.. has been Transferedgethering supplier_frequency_verificator..
+select id as id from user_vendor where  throw = 0 
+All Supp Freq.. has been Transferedgethering user_vendor..
+select id as id from users where  throw = 0 
+All Supp Freq.. has been Transferedgethering user..
+
+
+
+srsmr
+branches to be updated: 29
+gethering branches..
+1
+Branches: Commit
+select id as id from supplier_frequency where branch = 'srsmr' and (throw = 0 or date_edited >='2020-02-26' )
+1frequency to be updated: 1
+gethering supplier_frequency..
+frequency details to be updated: 1
+gethering supplier_frequency_items..
+select id as id from supplier_frequency_verificator where  throw = 0 
+All Supp Freq.. has been Transfered
+frequency verificator to be updated: 1
+gethering supplier_frequency_verificator..
+select id as id from truck_load where  throw = 0 
+All Supp Freq.. has been Transferedgethering supplier_frequency_verificator..
+select id as id from user_vendor where  throw = 0 
+All Supp Freq.. has been Transferedgethering user_vendor..
+select id as id from users where  throw = 0 
+All Supp Freq.. has been Transferedgethering user..
+
+
+
+srssanp
+branches to be updated: 29
+gethering branches..
+
+Branches: Commit
+select id as id from supplier_frequency where branch = 'srssanp' and (throw = 0 or date_edited >='2020-02-26' )
+frequency to be updated: 12
+gethering supplier_frequency..
+frequency details to be updated: 1
+gethering supplier_frequency_items..
+supplier_frequency and supplier_frequency_items :Commit
+Committhrow updated!
+select id as id from supplier_frequency_verificator where  throw = 0 
+All Supp Freq.. has been Transfered
+frequency verificator to be updated: 1
+gethering supplier_frequency_verificator..
+select id as id from truck_load where  throw = 0 
+All Supp Freq.. has been Transferedgethering supplier_frequency_verificator..
+select id as id from user_vendor where  throw = 0 
+All Supp Freq.. has been Transferedgethering user_vendor..
+select id as id from users where  throw = 0 
+All Supp Freq.. has been Transferedgethering user..
+
+
+
+srstu
+branches to be updated: 29
+gethering branches..
+1
+Branches: Commit
+select id as id from supplier_frequency where branch = 'srstu' and (throw = 0 or date_edited >='2020-02-26' )
+frequency to be updated: 10
+gethering supplier_frequency..
+frequency details to be updated: 2
+gethering supplier_frequency_items..
+supplier_frequency and supplier_frequency_items :Commit
+Committhrow updated!
+select id as id from supplier_frequency_verificator where  throw = 0 
+All Supp Freq.. has been Transfered
+frequency verificator to be updated: 1
+gethering supplier_frequency_verificator..
+select id as id from truck_load where  throw = 0 
+All Supp Freq.. has been Transferedgethering supplier_frequency_verificator..
+select id as id from user_vendor where  throw = 0 
+All Supp Freq.. has been Transferedgethering user_vendor..
+select id as id from users where  throw = 0 
+All Supp Freq.. has been Transferedgethering user..
+
+
+
+srsal
+branches to be updated: 29
+gethering branches..
+1
+Branches: Commit
+select id as id from supplier_frequency where branch = 'srsal' and (throw = 0 or date_edited >='2020-02-26' )
+frequency to be updated: 6
+gethering supplier_frequency..
+frequency details to be updated: 1
+gethering supplier_frequency_items..
+supplier_frequency and supplier_frequency_items :Commit
+Committhrow updated!
+select id as id from supplier_frequency_verificator where  throw = 0 
+All Supp Freq.. has been Transfered
+frequency verificator to be updated: 1
+gethering supplier_frequency_verificator..
+select id as id from truck_load where  throw = 0 
+All Supp Freq.. has been Transferedgethering supplier_frequency_verificator..
+select id as id from user_vendor where  throw = 0 
+All Supp Freq.. has been Transferedgethering user_vendor..
+select id as id from users where  throw = 0 
+All Supp Freq.. has been Transferedgethering user..
+
+
+
+srsbgb
+branches to be updated: 29
+gethering branches..
+
+Branches: Commit
+select id as id from supplier_frequency where branch = 'srsbgb' and (throw = 0 or date_edited >='2020-02-26' )
+frequency to be updated: 9
+gethering supplier_frequency..
+frequency details to be updated: 2
+gethering supplier_frequency_items..
+supplier_frequency and supplier_frequency_items :Commit
+Committhrow updated!
+select id as id from supplier_frequency_verificator where  throw = 0 
+All Supp Freq.. has been Transfered
+frequency verificator to be updated: 1
+gethering supplier_frequency_verificator..
+select id as id from truck_load where  throw = 0 
+All Supp Freq.. has been Transferedgethering supplier_frequency_verificator..
+select id as id from user_vendor where  throw = 0 
+All Supp Freq.. has been Transferedgethering user_vendor..
+select id as id from users where  throw = 0 
+All Supp Freq.. has been Transferedgethering user..
+
+
+
+srsgv
+branches to be updated: 29
+gethering branches..
+1
+Branches: Commit
+select id as id from supplier_frequency where branch = 'srsgv' and (throw = 0 or date_edited >='2020-02-26' )
+frequency to be updated: 10
+gethering supplier_frequency..
+frequency details to be updated: 2
+gethering supplier_frequency_items..
+supplier_frequency and supplier_frequency_items :Commit
+Committhrow updated!
+select id as id from supplier_frequency_verificator where  throw = 0 
+All Supp Freq.. has been Transfered
+frequency verificator to be updated: 1
+gethering supplier_frequency_verificator..
+select id as id from truck_load where  throw = 0 
+All Supp Freq.. has been Transferedgethering supplier_frequency_verificator..
+select id as id from user_vendor where  throw = 0 
+All Supp Freq.. has been Transferedgethering user_vendor..
+select id as id from users where  throw = 0 
+All Supp Freq.. has been Transferedgethering user..
+
+
+
+srsmol
+branches to be updated: 29
+gethering branches..
+
+Branches: Commit
+select id as id from supplier_frequency where branch = 'srsmol' and (throw = 0 or date_edited >='2020-02-26' )
+frequency to be updated: 11
+gethering supplier_frequency..
+frequency details to be updated: 2
+gethering supplier_frequency_items..
+supplier_frequency and supplier_frequency_items :Commit
+Committhrow updated!
+select id as id from supplier_frequency_verificator where  throw = 0 
+All Supp Freq.. has been Transfered
+frequency verificator to be updated: 1
+gethering supplier_frequency_verificator..
+select id as id from truck_load where  throw = 0 
+All Supp Freq.. has been Transferedgethering supplier_frequency_verificator..
+select id as id from user_vendor where  throw = 0 
+All Supp Freq.. has been Transferedgethering user_vendor..
+select id as id from users where  throw = 0 
+All Supp Freq.. has been Transferedgethering user..
+
+
+
+srsmon
+branches to be updated: 29
+gethering branches..
+1
+Branches: Commit
+select id as id from supplier_frequency where branch = 'srsmon' and (throw = 0 or date_edited >='2020-02-26' )
+frequency to be updated: 13
+gethering supplier_frequency..
+frequency details to be updated: 2
+gethering supplier_frequency_items..
+supplier_frequency and supplier_frequency_items :Commit
+Committhrow updated!
+select id as id from supplier_frequency_verificator where  throw = 0 
+All Supp Freq.. has been Transfered
+frequency verificator to be updated: 1
+gethering supplier_frequency_verificator..
+select id as id from truck_load where  throw = 0 
+All Supp Freq.. has been Transferedgethering supplier_frequency_verificator..
+select id as id from user_vendor where  throw = 0 
+All Supp Freq.. has been Transferedgethering user_vendor..
+select id as id from users where  throw = 0 
+All Supp Freq.. has been Transferedgethering user..
+
+
+
+srsman
+branches to be updated: 29
+gethering branches..
+1
+Branches: Commit
+select id as id from supplier_frequency where branch = 'srsman' and (throw = 0 or date_edited >='2020-02-26' )
+frequency to be updated: 16
+gethering supplier_frequency..
+frequency details to be updated: 2
+gethering supplier_frequency_items..
+supplier_frequency and supplier_frequency_items :Commit
+Committhrow updated!
+select id as id from supplier_frequency_verificator where  throw = 0 
+All Supp Freq.. has been Transfered
+frequency verificator to be updated: 1
+gethering supplier_frequency_verificator..
+select id as id from truck_load where  throw = 0 
+All Supp Freq.. has been Transferedgethering supplier_frequency_verificator..
+select id as id from user_vendor where  throw = 0 
+All Supp Freq.. has been Transferedgethering user_vendor..
+select id as id from users where  throw = 0 
+All Supp Freq.. has been Transferedgethering user..
+
+
+
+srsisidro
+branches to be updated: 29
+gethering branches..
+1
+Branches: Commit
+select id as id from supplier_frequency where branch = 'srsisidro' and (throw = 0 or date_edited >='2020-02-26' )
+frequency to be updated: 17
+gethering supplier_frequency..
+frequency details to be updated: 2
+gethering supplier_frequency_items..
+supplier_frequency and supplier_frequency_items :Commit
+Committhrow updated!
+select id as id from supplier_frequency_verificator where  throw = 0 
+All Supp Freq.. has been Transfered
+frequency verificator to be updated: 1
+gethering supplier_frequency_verificator..
+select id as id from truck_load where  throw = 0 
+All Supp Freq.. has been Transferedgethering supplier_frequency_verificator..
+select id as id from user_vendor where  throw = 0 
+All Supp Freq.. has been Transferedgethering user_vendor..
+select id as id from users where  throw = 0 
+All Supp Freq.. has been Transferedgethering user..

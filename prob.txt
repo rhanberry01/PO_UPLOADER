@@ -1,0 +1,16 @@
+C:\xampp\htdocs\auto\hidden.bat
+
+C:\xampp\htdocs\auto
+
+192.168.18.10 -> failed to conect server
+
+SRSMCAINTA -> wrong password
+
+malabon -> error auto bat database problem
+
+navotas 192.168.7.10 -> failed to conect server
+
+192.168.15.100 -> di makaconnect
+192.168.32.100 -> di ma access htdocs permission access
+
+192.168.4.100 -> error auto bat database problem

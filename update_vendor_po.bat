@@ -1,0 +1,2 @@
+php index.php auto get_new_vendor_trans_to_all
+exit
